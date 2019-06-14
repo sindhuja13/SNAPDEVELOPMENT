@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_366671_ss_it.fsi</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>fsi</name>
+        <script><![CDATA[var fsi = Class.create();
+fsi.prototype = {
+    initialize: function() {
+    },
+helloworld:function()
+	{
+		gs.addInfoMessage('calld frm scrpt inc');
+	},
+    type: 'fsi'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 08:44:47</sys_created_on>
+        <sys_id>b6644dc9db0a730097e5af264896198f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>fsi</sys_name>
+        <sys_package display_value="ss it" source="x_366671_ss_it">eb5f3a14db02330097e5af2648961953</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ss it">eb5f3a14db02330097e5af2648961953</sys_scope>
+        <sys_update_name>sys_script_include_b6644dc9db0a730097e5af264896198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 09:07:46</sys_updated_on>
+    </sys_script_include>
+</record_update>

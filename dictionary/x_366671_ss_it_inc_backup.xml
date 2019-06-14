@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="inc_backup" max_length="40" name="x_366671_ss_it_inc_backup" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="short desc" max_length="100" name="short_desc" type="string"/>
+    </element>
+</database>

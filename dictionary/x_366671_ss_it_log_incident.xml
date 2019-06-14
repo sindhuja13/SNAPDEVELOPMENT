@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log_incident" max_length="40" name="x_366671_ss_it_log_incident" sizeclass="4" type="collection">
+        <element choice="1" label="Cc" mandatory="true" max_length="1000" name="cc" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="aa" sequence="0" value="aa"/>
+                <element inactive_on_update="false" label="bb" sequence="1" value="bb"/>
+                <element inactive_on_update="false" label="cc" sequence="2" value="cc"/>
+            </choice>
+        </element>
+        <element label="Ff" max_length="32" name="ff" reference="sys_user" type="reference"/>
+        <element label="Jjj" max_length="1000" name="jjj" type="journal"/>
+        <element label="name" max_length="100" name="name" type="string"/>
+        <element label="ref" mandatory="true" max_length="32" name="ref" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Reqdt" max_length="40" name="reqdt" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Retdt" max_length="40" name="retdt" type="glide_date_time"/>
+    </element>
+</database>
