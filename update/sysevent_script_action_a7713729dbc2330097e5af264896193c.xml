@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition_script/>
+        <description/>
+        <event_name>x_366671_ss_it.event2</event_name>
+        <name>scrpt</name>
+        <order>100</order>
+        <script><![CDATA[var inc=new GlideRecord('incident');
+inc.short_description="hello";
+inc.insert();
+
+
+
+]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 10:24:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7713729dbc2330097e5af264896193c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>scrpt</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ss it" source="x_366671_ss_it">eb5f3a14db02330097e5af2648961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ss it">eb5f3a14db02330097e5af2648961953</sys_scope>
+        <sys_update_name>sysevent_script_action_a7713729dbc2330097e5af264896193c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 11:10:27</sys_updated_on>
+    </sysevent_script_action>
+</record_update>
