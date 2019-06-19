@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="hjkl" max_length="40" name="x_366671_ss_it_hjkl" type="collection">
+        <element label="ss" max_length="40" name="ss" type="string"/>
+    </element>
+</database>
