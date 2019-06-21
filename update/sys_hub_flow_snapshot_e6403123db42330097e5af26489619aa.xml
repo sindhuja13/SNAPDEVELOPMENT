@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>sflo</internal_name>
+        <label_cache>[{"name":"1162fa83-bde9-4d5e-a45a-c1adbb1c838a.table_name","label":"4.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"1162fa83-bde9-4d5e-a45a-c1adbb1c838a.record","label":"4.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"02948408-44fc-4ef1-8f32-0a9299ad0eab.item","label":"4➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"925994ec-b35c-44bf-a6b9-f43475f220e9.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"925994ec-b35c-44bf-a6b9-f43475f220e9.Table","label":"3➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"925994ec-b35c-44bf-a6b9-f43475f220e9.Records","label":"3➛Request Records","reference":"sc_request","reference_display":"Request","type":"records","base_type":"records"},{"name":"72217d58-8b04-4c40-b466-cffa91cdb04b.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"72217d58-8b04-4c40-b466-cffa91cdb04b.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"72217d58-8b04-4c40-b466-cffa91cdb04b.Records","label":"3➛Records","reference_display":"Records","type":"records","base_type":"records"},{"name":"33985b1d-d8ae-4034-a861-97b8ba53e945.table_name","label":"2.1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"33985b1d-d8ae-4034-a861-97b8ba53e945.record","label":"2.1➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"7c8b8022-52b8-4a71-a7bb-586fc8e957a4.item","label":"2➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"67ee6074-efb1-4ce1-9a0f-a3d78f35ef76.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"67ee6074-efb1-4ce1-9a0f-a3d78f35ef76.Table","label":"1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"67ee6074-efb1-4ce1-9a0f-a3d78f35ef76.Records","label":"1➛Request Records","reference":"sc_request","reference_display":"Request","type":"records","base_type":"records"}]</label_cache>
+        <master>true</master>
+        <name>sflo</name>
+        <outputs/>
+        <parent_flow display_value="sflo">454a6d6bdb02330097e5af26489619be</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:02:13</sys_created_on>
+        <sys_id>e6403123db42330097e5af26489619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sflo</sys_name>
+        <sys_package display_value="ss it" source="x_366671_ss_it">eb5f3a14db02330097e5af2648961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ss it">eb5f3a14db02330097e5af2648961953</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_e6403123db42330097e5af26489619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:02:13</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=e6403123db42330097e5af26489619aa"/>
+    <sys_variable_value action="delete_multiple" query="document_key=e6403123db42330097e5af26489619aa"/>
+</record_update>

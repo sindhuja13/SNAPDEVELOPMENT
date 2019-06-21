@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_web_service_output">
+    <sys_web_service_output action="INSERT_OR_UPDATE">
+        <name>s2</name>
+        <order>100</order>
+        <sys_class_name>sys_web_service_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 05:07:35</sys_created_on>
+        <sys_id>b0c3ada7db02330097e5af2648961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>s2</sys_name>
+        <sys_package display_value="ss it" source="x_366671_ss_it">eb5f3a14db02330097e5af2648961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ss it">eb5f3a14db02330097e5af2648961953</sys_scope>
+        <sys_update_name>sys_web_service_output_b0c3ada7db02330097e5af2648961913</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 05:07:35</sys_updated_on>
+        <web_service display_value="sws">45d2e1a7db02330097e5af26489619df</web_service>
+    </sys_web_service_output>
+</record_update>

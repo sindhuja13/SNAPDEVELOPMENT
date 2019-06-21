@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="wstesting" language="en" table="x_366671_ss_it_wstesting">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>wstesting</label>
+            <language>en</language>
+            <name>x_366671_ss_it_wstesting</name>
+            <plural>wstestings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:21:41</sys_created_on>
+            <sys_id>45d31f72db4e330097e5af26489619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>wstesting</sys_name>
+            <sys_package display_value="ss it" source="x_366671_ss_it">eb5f3a14db02330097e5af2648961953</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ss it">eb5f3a14db02330097e5af2648961953</sys_scope>
+            <sys_update_name>sys_documentation_x_366671_ss_it_wstesting__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:21:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

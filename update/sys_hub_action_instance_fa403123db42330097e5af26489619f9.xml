@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent display_value="Look Up Records">d1c56ec50b30030085c083eb37673a50</action_type_parent>
+        <comment/>
+        <compiled_snapshot>ca07ee090b30030085c083eb37673afc</compiled_snapshot>
+        <display_text/>
+        <flow display_value="sflo">e6403123db42330097e5af26489619aa</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:02:14</sys_created_on>
+        <sys_id>fa403123db42330097e5af26489619f9</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ss it" source="x_366671_ss_it">eb5f3a14db02330097e5af2648961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ss it">eb5f3a14db02330097e5af2648961953</sys_scope>
+        <sys_update_name>sys_hub_action_instance_fa403123db42330097e5af26489619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:12:39</sys_updated_on>
+        <ui_id>925994ec-b35c-44bf-a6b9-f43475f220e9</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=fa403123db42330097e5af26489619f9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>fa403123db42330097e5af26489619f9</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:12:39</sys_created_on>
+        <sys_id>a3a2b963db42330097e5af2648961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:12:39</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">8a07ee090b30030085c083eb37673aff</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=fa403123db42330097e5af26489619f9"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>fa403123db42330097e5af26489619f9</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:02:14</sys_created_on>
+        <sys_id>b6403123db42330097e5af26489619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:02:14</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
+        <value>assigned_to={{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>fa403123db42330097e5af26489619f9</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:02:14</sys_created_on>
+        <sys_id>7a403123db42330097e5af26489619fe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:12:39</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">ca30fdefdb02330097e5af2648961930</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="sflo">454a6d6bdb02330097e5af26489619be</flow>
+        <inputs/>
+        <logic_definition display_value="For Each">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:01:54</sys_created_on>
+        <sys_id>0230fdefdb02330097e5af2648961932</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ss it" source="x_366671_ss_it">eb5f3a14db02330097e5af2648961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ss it">eb5f3a14db02330097e5af2648961953</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_0230fdefdb02330097e5af2648961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:21:14</sys_updated_on>
+        <ui_id>02948408-44fc-4ef1-8f32-0a9299ad0eab</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=0230fdefdb02330097e5af2648961932"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>0230fdefdb02330097e5af2648961932</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:01:54</sys_created_on>
+        <sys_id>8630fdefdb02330097e5af2648961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:01:54</sys_updated_on>
+        <value>{{925994ec-b35c-44bf-a6b9-f43475f220e9.Records}}</value>
+        <variable display_value="">19df9109c32632002841b63b12d3aed6</variable>
+    </sys_variable_value>
+</record_update>
